@@ -3,10 +3,10 @@
 ## ☕ Sistema de Gestión para una Cafetería
 
 ## 👥 Team Members
-- Name 1
-- Name 2
-- Name 3
-- Name 4
+- Alexis Benitez Fuentes
+- Gabriel Eduardo Córdoba Perez
+- Fernanda Martínez Martínez 
+- Karen Yazbeth Rivera Aguirre
 
 ---
 
