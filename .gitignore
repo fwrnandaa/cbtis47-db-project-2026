@@ -1,1 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
 
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# MySQL Workbench files
+*.mwb
+*.mwb.bak
+
+# VS Code settings
+.vscode/
