@@ -1,6 +1,6 @@
 # CBTis 47 - Database Project 2026
 
-## ☕ Sistema de Gestión para una Cafetería
+## ☕ Sistema de Gestión para un Restaurante
 
 ## 👥 Team Members
 - Alexis Benitez Fuentes
